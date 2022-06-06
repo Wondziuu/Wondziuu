@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Wondziuu
+- 👀 I’m interested in coding 
+- 🌱 I’m currently learning HTML & CSS
+- 📫 How to reach me ? 
+- Discord : Wondziuu#4878
