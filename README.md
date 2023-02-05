@@ -26,6 +26,5 @@ Currently I'm working on:
 </p>
 
 <br/>
-<h3>Metrics</h3>
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
 
