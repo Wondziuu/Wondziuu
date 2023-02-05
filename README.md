@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Wondziu</h1>
 <h3 align="center">I'm beginner full-stack developer.</h3>
 
-<img algin="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"> 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://stackoverflow.com/users/20331589" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20331589" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/wondziu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wondziu" height="30" width="40" /></a>
 <a href="https://discord.gg/Wondziuu#4878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Wondziuu#4878" height="30" width="40" /></a>
 </p>
 
