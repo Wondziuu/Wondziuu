@@ -15,7 +15,8 @@
 <h3>What I'm working on now</h3>
 Currently I'm working on:
 
-- Mainly self-development.
+- GymEnjoyer.pl
+- Self-development.
 
 
 <h3>Contact</h3>
