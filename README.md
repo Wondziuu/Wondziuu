@@ -15,7 +15,8 @@
 <h3>What I'm working on now</h3>
 Currently I'm working on:
 
-- GymEnjoyer.pl
+- TwrKrolPodziemia.pl 
+- DailyTwr.pl
 - Self-development.
 
 
