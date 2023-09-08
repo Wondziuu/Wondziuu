@@ -4,7 +4,6 @@
 <p>Welcome to my github page! </br> I'm Wondziu, I'm interested in programming!
 <h3>I like/know how to code in the following languages and use the following tools</h3>
 <p>
-  <img alt="java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="html" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
