@@ -11,12 +11,7 @@
   <img alt="linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" />
 </p>
 
-<h3>What I'm working on now</h3>
-Currently I'm working on:
 
-- TwrKrolPodziemia.pl 
-- DailyTwr.pl
-- Self-development.
 
 
 <h3>Contact</h3>
